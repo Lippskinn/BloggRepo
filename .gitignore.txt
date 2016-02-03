@@ -1,0 +1,3 @@
+#The following type of data should be ignored
+
+bin/
